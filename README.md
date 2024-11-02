@@ -18,3 +18,6 @@ Add more interactivity and animations to enhance the user experience.
 **Getting Started**
 To view this project, clone the repository to your local machine:
 https://github.com/codewithMubasharHussain/Netflix-clone-html-css.git
+
+  ![Home Page Layout](https://github.com/codewithMubasharHussain/Netflix-clone-html-css/blob/main/netflix.jpeg)
+
