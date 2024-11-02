@@ -173,7 +173,7 @@ label::after{
     position: absolute;
     right: 20px;
     transition: transform 0.5s;
-    
+
 }
 input[type="radio"]{
     display: none;
@@ -196,4 +196,13 @@ input[type="radio"]{
 .accordion input[type="radio"]:checked + label::after{
     transform: rotate(135deg);
 
+}
+.frequent-ask-question .email-signup{
+    max-width: 600px;
+    margin: 20px auto 60px;
+
+}
+.frequent-ask-question small{
+    font-size: 13px;
+    
 }
